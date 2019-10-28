@@ -7,3 +7,6 @@ e alguns arquivos binários tipo (.jpg, .docx, .pptx, etc).<br/>
 
 Realizaremos operações sobre o repositório lpg4-20192
 
+# 28/10/2019
+Continuando com o GIT<br/>
+Utilizacao do TortoiseGit
