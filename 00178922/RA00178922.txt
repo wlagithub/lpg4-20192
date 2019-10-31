@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ra00178922
 
 
 ra00184184 Vinícius esteve aqui
+=======
+Haro, meu nome é Pedro e o Vinicius Dantas está alterando a linha de baixo. O que será que esse rapazote vai aprontar?
+>>>>>>> a79589f853c33b3701c970214eff5e3f6ef82e2f
