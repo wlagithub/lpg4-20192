@@ -1,3 +1,4 @@
+<<<<<<< .mine
 hello world!
 hello world!
 hello world!
@@ -16,3 +17,23 @@ hello world!
 hello world!
 hello world!
 hello world!
+=======
+hello world!
+
+
+minha alteracao: wla
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> .theirs
