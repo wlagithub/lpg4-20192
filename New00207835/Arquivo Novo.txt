@@ -1,3 +1,7 @@
 Esta preparado para a volta de Cristo??
+<<<<<<< HEAD
 Como esta sua vida espiritual??
 Ele esta voltando para julgar o mundo!!
+=======
+Como esta sua vida espiritual??
+>>>>>>> master
